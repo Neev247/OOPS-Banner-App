@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class UC4 {
 
     public static void main(String[] args) {
         // Storing the banner lines in a String array
